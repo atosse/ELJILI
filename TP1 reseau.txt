@@ -1,0 +1,8 @@
+			TP1 de Reseau du premier semestre
+
+Exercice1:
+En utilisant le logiciel Cain et Abel, casser le mot de pass Haché en type 7 
+par la commande Service password-encryption. (cisco type 7 password decoder)
+
+Exercice2:
+
